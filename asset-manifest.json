@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/AboutSpain/static/css/main.4b84e630.css",
+    "main.js": "/AboutSpain/static/js/main.243f4469.js",
+    "static/media/img1.jpg": "/AboutSpain/static/media/img1.5e79cf24f2ee86519265.jpg",
+    "static/media/sevylia.jpg": "/AboutSpain/static/media/sevylia.ece9cd7e8332f7f81cce.jpg",
+    "static/media/mainBg.jpg": "/AboutSpain/static/media/mainBg.56f056f4bd487b602be0.jpg",
+    "static/media/mursija.jpg": "/AboutSpain/static/media/mursija.66d3a8ac56cb6fefa5b2.jpg",
+    "static/media/img10.jpg": "/AboutSpain/static/media/img10.b723ad48b7f66c71854c.jpg",
+    "static/media/img6.jpg": "/AboutSpain/static/media/img6.60668eda2b8bd14d4765.jpg",
+    "static/media/img4.jpg": "/AboutSpain/static/media/img4.1e30242db9013057e1c1.jpg",
+    "static/media/img16.jpg": "/AboutSpain/static/media/img16.55a6956981b703e98f10.jpg",
+    "static/media/img12.jpg": "/AboutSpain/static/media/img12.7def0a72d9e4c2d341f4.jpg",
+    "static/media/valyadolid.jpg": "/AboutSpain/static/media/valyadolid.53944bc189269e98ee1c.jpg",
+    "static/media/madrid.jpg": "/AboutSpain/static/media/madrid.cd8f19629c7d9435ba59.jpg",
+    "static/media/valensia.jpg": "/AboutSpain/static/media/valensia.748310f87ba2fcffe18e.jpg",
+    "static/media/img3.jpg": "/AboutSpain/static/media/img3.c62f6fe0333f4cc5bce9.jpg",
+    "static/media/img9.jpg": "/AboutSpain/static/media/img9.f09a34300a74cbb7e73b.jpg",
+    "static/media/img2.jpg": "/AboutSpain/static/media/img2.e9dabacaa9ae2bd6c131.jpg",
+    "static/media/img5.jpg": "/AboutSpain/static/media/img5.66dba445958bfdd1fbfa.jpg",
+    "static/media/pamplona.jpg": "/AboutSpain/static/media/pamplona.b0c6137445298d5e70b1.jpg",
+    "static/media/img13.jpg": "/AboutSpain/static/media/img13.68f43a00a229507e2a5a.jpg",
+    "static/media/img11.jpg": "/AboutSpain/static/media/img11.955cacca4a5582dd8f9f.jpg",
+    "static/media/img7.jpg": "/AboutSpain/static/media/img7.48e9032952b489272838.jpg",
+    "static/media/img8.jpg": "/AboutSpain/static/media/img8.da74525efe9bad68eb97.jpg",
+    "static/media/img15.jpg": "/AboutSpain/static/media/img15.c0fab0b091f91e037989.jpg",
+    "static/media/toledo.jpg": "/AboutSpain/static/media/toledo.246f1ebd97001859ab17.jpg",
+    "static/media/barselona.jpg": "/AboutSpain/static/media/barselona.25f1d790b1b0d10d2a5f.jpg",
+    "static/media/img17.jpg": "/AboutSpain/static/media/img17.10eae960d3758ec87c81.jpg",
+    "static/media/img14.jpg": "/AboutSpain/static/media/img14.58b5f6fa49b7bd3d0169.jpg",
+    "static/media/light.png": "/AboutSpain/static/media/light.943b4ca43fa2666aa5e6.png",
+    "static/media/favicon.svg": "/AboutSpain/static/media/favicon.ed8e4af09ef3c6911d8f1713dfd70414.svg",
+    "index.html": "/AboutSpain/index.html",
+    "main.4b84e630.css.map": "/AboutSpain/static/css/main.4b84e630.css.map",
+    "main.243f4469.js.map": "/AboutSpain/static/js/main.243f4469.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b84e630.css",
+    "static/js/main.243f4469.js"
+  ]
+}
