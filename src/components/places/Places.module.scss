@@ -1,0 +1,58 @@
+.wrapper {
+margin: 0 auto;
+    h1 {
+        text-align: center;
+        width: 100%;
+    }
+    a {
+        text-decoration: none;
+    }
+}
+
+.card {
+    background-color: white;
+    width: 500px;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 5px;
+    height: 400px;
+    -webkit-box-shadow: 4px 4px 8px 5px rgba(34, 60, 80, 0.2);
+    -moz-box-shadow: 4px 4px 8px 4px rgba(34, 60, 80, 0.2);
+    box-shadow: 4px 4px 8px 4px rgba(34, 60, 80, 0.2);
+    cursor: pointer;
+    transition: all 1s ease;
+    color: black;
+    
+}
+
+.card:hover {
+    background-color: rgb(255, 216, 216);
+    transition: all 0.5s ease;
+
+}
+
+.headers {
+    display: flex;
+    align-items: center;
+    p {
+        margin-left: 10px;
+        color: gray;
+    }
+}
+
+.line {
+    height: 2px;
+background-color: rgb(202, 102, 102);
+    width: 30%;
+    margin-top: 5px;
+    margin-bottom: 8px;
+}
+
+.cards {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 90%;
+    margin: 0 auto;
+    flex-wrap: wrap;
+}

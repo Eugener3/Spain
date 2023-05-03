@@ -1,0 +1,17 @@
+$main-color: rgba(219, 44, 56, 1);
+$main-color-op80: rgba(219, 44, 56, 0.8);
+$main-color-op60: rgba(219, 44, 56, 0.6);
+$main-color-op40: rgba(219, 44, 56, 0.4);
+$main-color-op20: rgba(219, 44, 56, 0.2);
+
+
+$main-color-hover: darken($main-color, 10%);
+
+$main-border-radius: 5px;
+
+$main-bg-color: rgb(255, 211, 160);
+$main-bg-color-op80: rgba(38, 38, 38, 0.8);
+$main-bg-color-op60: rgba(38, 38, 38, 0.6);
+$main-bg-color-op40: rgba(38, 38, 38, 0.4);
+$main-bg-color-op20: rgba(38, 38, 38, 0.2);
+

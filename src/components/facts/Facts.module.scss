@@ -1,0 +1,43 @@
+.wrapper {
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+
+.item {
+    display: flex;
+    align-items: center;
+    margin: 30px;
+    width: 400px;
+}
+
+.leftItems {
+    width: 404px;
+    img {
+        width: 350px;
+    }
+}
+
+.rightItems {
+    border-left: 4px solid rgba(0, 0, 0, 0.5);
+}
+
+.icon {
+    margin: 10px;
+}
+
+.text {
+    text-align: left;
+}
+
+.centerItems {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    text-decoration: none;
+}
