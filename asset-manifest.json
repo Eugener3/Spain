@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Spain/static/css/main.4b84e630.css",
-    "main.js": "/Spain/static/js/main.15916e1f.js",
+    "main.css": "/Spain/static/css/main.4c844d34.css",
+    "main.js": "/Spain/static/js/main.74e0f446.js",
     "static/media/img1.jpg": "/Spain/static/media/img1.5e79cf24f2ee86519265.jpg",
     "static/media/sevylia.jpg": "/Spain/static/media/sevylia.ece9cd7e8332f7f81cce.jpg",
     "static/media/mainBg.jpg": "/Spain/static/media/mainBg.56f056f4bd487b602be0.jpg",
@@ -31,11 +31,11 @@
     "static/media/light.png": "/Spain/static/media/light.943b4ca43fa2666aa5e6.png",
     "static/media/favicon.svg": "/Spain/static/media/favicon.ed8e4af09ef3c6911d8f1713dfd70414.svg",
     "index.html": "/Spain/index.html",
-    "main.4b84e630.css.map": "/Spain/static/css/main.4b84e630.css.map",
-    "main.15916e1f.js.map": "/Spain/static/js/main.15916e1f.js.map"
+    "main.4c844d34.css.map": "/Spain/static/css/main.4c844d34.css.map",
+    "main.74e0f446.js.map": "/Spain/static/js/main.74e0f446.js.map"
   },
   "entrypoints": [
-    "static/css/main.4b84e630.css",
-    "static/js/main.15916e1f.js"
+    "static/css/main.4c844d34.css",
+    "static/js/main.74e0f446.js"
   ]
 }
